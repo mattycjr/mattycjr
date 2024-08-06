@@ -1,12 +1,18 @@
 <!---
-mattycjr/msclifford5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mattycjr/mattycjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi, I'm Matthew! <br/><a href="https://github.com/mattycjr/mattycjr">Basic Programmer</a>, <a href="https://www.linkedin.com/in/matthewsclifford/">Aspiring Cybersecurity Professional</a></h1>
-<h2>👨‍💻 Certifications:</h2>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>👨‍💻 Certifications:</h2>
+- [Google Cybersecurity Specialization](https://www.credly.com/badges/3db9d499-3269-4d0b-8f11-2d93b2148f59/linked_in_profile)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
