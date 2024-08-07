@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <!-- Link to Book Issue Tracker...or Repo? -->
-- [Book Issue Tracker](https://github.com/mattycjr)
+- [Book Issue Tracker](https://github.com/mattycjr/BookIssueTracker/tree/main)
 
 <h2>📄 Certifications:</h2>
 
