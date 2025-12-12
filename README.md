@@ -3,7 +3,7 @@ mattycjr/mattycjr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mattycjr/programs">Basic Programmer</a>, <a href="https://www.linkedin.com/in/matthewsclifford/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Matthew! <br/><a href="https://github.com/mattycjr/programs">Basic Programmer</a></h1>
 
 
 <h2>👨‍💻 Projects:</h2>
